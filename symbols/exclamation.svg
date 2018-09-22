@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="15px" viewBox="0 0 5 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>!</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="table/status/active" transform="translate(-29.000000, -7.000000)" fill="#E3EDFF">
+            <g id="Status">
+                <path d="M33.5731282,9.28656409 L31.9899557,17.2017047 C31.8361865,17.9707911 30.736701,17.9707911 30.5829319,17.2017047 L29,9.28656409 C29,8.02368382 30.0236838,7 31.2865641,7 C32.5494444,7 33.5731282,8.02368382 33.5731282,9.28656409 Z M31.2865641,18.8750451 C32.1495002,18.8750451 32.8490415,19.5745865 32.8490415,20.4375226 C32.8490415,21.3004587 32.1495002,22 31.2865641,22 C30.423628,22 29.7240866,21.3004587 29.7240866,20.4375226 C29.7240866,19.5745865 30.423628,18.8750451 31.2865641,18.8750451 Z" id="!"></path>
+            </g>
+        </g>
+    </g>
+</svg>
