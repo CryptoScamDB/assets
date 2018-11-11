@@ -18,4 +18,4 @@
 - **wallets**: Various icons for cryptocurrency wallets
 ---
 ## License
-The assets in `branding`, `etherscamdb`, `favicon` and `logo` are owned by the CryptoScamDB project and require permission to be used or re-distributed. If you would like to request permission, please do so by sending an email to <a href="mailto:contact@cryptoscamdb.org">contact@cryptoscamdb.org</a>. All other assets either require permission from the projects associated with them, or can be used freely.
+The assets in `branding`, `etherscamdb`, `favicon` and `logo` and other related intellectual property are owned by the CryptoScamDB project and require permission to be used or re-distributed. If you would like to request permission, please do so by sending an email to <a href="mailto:contact@cryptoscamdb.org">contact@cryptoscamdb.org</a>. All other assets either require permission from the projects associated with them, or can be used freely.
