@@ -1,0 +1,26 @@
+name: example.com
+type: scam
+category: OTHER
+subcategory: crypto
+description: 'Scam investigation report (case: Op Full).
+
+  Category: OTHER.
+
+  Corroborating public sources: 2.
+
+  Scam domains: example.com, fake-invest.io.
+
+  Contact handles: @fakebroker.
+
+  Evidence (SHA-256 <- source): 3e1c338b093a64eb… <- https://complaints.example.com/report-2;
+  4cf74a9face10bb8… <- https://complaints.example.com/report-1.
+
+  Compiled by Odin Loch using scamtrace (public-source OSINT + public-ledger tracing).'
+addresses:
+- coin: TRON
+  address: T9dwtq5H8YqVXiRsE7Y2zvRUfqr1mVJotF
+url: example.com
+related_urls:
+- https://fake-invest.io
+reporter: Odin Loch
+coin: TRON
